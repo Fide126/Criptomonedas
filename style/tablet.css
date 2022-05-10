@@ -1,0 +1,19 @@
+.container--size{
+    display: flex;
+    flex-wrap: wrap;
+    width: 930px;
+    margin: 0 auto;
+}
+
+.plans-comntainer--slider{
+    justify-content: center;
+
+}
+
+.smain-tables-container{
+    display: flex;
+    width: 930px;
+    margin: 0 auto;
+    justify-content: center;
+
+}
